@@ -17,7 +17,7 @@ This project builds a predictive model to determine the likelihood of a stroke b
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/stroke-prediction.git
+git clone https://github.com/CptMike/stroke-prediction
 cd stroke-prediction
 ```
 
