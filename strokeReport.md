@@ -3,6 +3,15 @@
 ## 1. Introduction
 This project aims to predict the likelihood of a stroke based on a patient's data.
 
+The project contains 4 categories
+1. Import Data
+2. EDA
+3. Feature Engineering
+4. Model Training
+
+Each category contains sub-categories to keep the code clean.
+(encodings, different models etc.)
+
 ## 2. Dataset Overview
 The dataset contains over 5000 of unique patients with features such as 
 gender,	age, hypertension, heart_disease, ever_married, work_type, Residence_type,	avg_glucose_level, bmi, smoking_status and stroke status.
