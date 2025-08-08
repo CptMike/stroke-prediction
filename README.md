@@ -1,4 +1,4 @@
-# Stroke Prediction Using Machine Learning
+# 🧠 Stroke Prediction Using Machine Learning
 
 This project builds a predictive model to determine the likelihood of a stroke based on health and demographic information.
 
@@ -19,3 +19,14 @@ This project builds a predictive model to determine the likelihood of a stroke b
 ```bash
 git clone https://github.com/yourusername/stroke-prediction.git
 cd stroke-prediction
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the notebook
+```bash
+jupyter notebook
+```
